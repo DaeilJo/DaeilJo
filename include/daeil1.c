@@ -3,5 +3,6 @@
 int main(void)
 {
 	printf("jieun");
+	printf("zzang");
 	return;
 }
